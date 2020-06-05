@@ -1,0 +1,6 @@
+com/example/cochraneLibraryScraper/model/Topics.class
+com/example/cochraneLibraryScraper/console/command/AppplicationCommand.class
+com/example/cochraneLibraryScraper/model/Review.class
+com/example/cochraneLibraryScraper/model/Topic.class
+com/example/cochraneLibraryScraper/cochraneLibraryScraper.class
+com/example/cochraneLibraryScraper/service/OutputFile.class
